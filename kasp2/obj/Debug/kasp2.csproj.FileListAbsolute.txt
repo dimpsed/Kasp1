@@ -1,0 +1,6 @@
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\bin\Debug\kasp2.exe.config
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\bin\Debug\kasp2.exe
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\bin\Debug\kasp2.pdb
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\obj\Debug\kasp2.csprojResolveAssemblyReference.cache
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\obj\Debug\kasp2.exe
+c:\users\playgta5\documents\visual studio 2015\Projects\kasp2\kasp2\obj\Debug\kasp2.pdb
